@@ -1,0 +1,3 @@
+APO+ = Advanced performance optimizer (possibly)
+Replaces old and outdated instruction sets with news one
+Considering providing a way to overwrite .EXEs without a dev's consent for games that aren't directly patched.

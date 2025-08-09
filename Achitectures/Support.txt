@@ -1,0 +1,2 @@
+Intel plans to support Nova Lake, Razer Lake,
+Titan Lake and Hammer Lake on LGA 1954. Thats 4 generations as of 8/9/2025

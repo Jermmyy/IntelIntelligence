@@ -1,0 +1,44 @@
+Launches late 2026 with up to 16 x Coyote Cover P-Cores w/bLLC + 32 x Arctic Wolf E-Cores w/bLLC + 4 x Lower Power Arctic Wolf E-Cores = 52C/52T Total.
+
+"bLLC" or "Big Last Level Cache" is intels answer to AMD V-Cache. Its on-die L3 in the middle of the ringbus.
+
+(3D-Stacked "eLLC" was delayed to Titan Lake)
+
+TDPs to be expected between "150-250W"
+
+
+
+Top NVL-S has 5 Tiles:
+2 x bLLC Dies = 8+16 compute Tiles - Games probably utilize only 1 bLLC tile.
+1 x Hub Die = North Bridge IP, Media Engine, NPU, Memory Controller, 4 x LPE Cores
+1 x PCD (Platform Die Controller) = Sout Bridge IP, TBT, Display Connections, PCIe, Security Engine, DMI to PCH
+1 x iGPU Die = 32 x Celestial Execution units (laptop could have iGPU tile options with 64 and/or 192 EUs)
+
+
+
+The Top half of the desktop lineup will have bLLC cache,
+with the bottom half having far less cache:
+-------------------------------------------------------
+Flagship config (TSMC N2P) = 52 Cores Total w/ 144MB of bLLC per CCD (288MB of L3 Total (wow :D))
+-------------------------------------------------------
+Premium Gaming Config (TSMC N2P) = 8+16+4 = 28 Cores Total w/ 144MB of bLLC
+-------------------------------------------------------
+Mainstream Config (TSMC N2P) = 8+16+4 = 28 Cores Total w/ 36MB of L3
+-------------------------------------------------------
+Budget Config (TSMC N2P) = 4+8+4 = 16 Cores Total w/ 18MB of L3
+-------------------------------------------------------
+Entry Config (Intel 18A) = 4+0+4 = 8 Cores Total w/ 12MB of L3
+-------------------------------------------------------
+
+
+
+Arrow Lake Comparisons, performance details are noted in various docs:
+non-bLLC NVL-S is epxected to bring a 16% Single-Threaded & 12% Multi-Threading uplift over ARL (8+16 vs 8+16)
+bLLC variant of NVL-S should bring a 20% Single-Threading & 23% Multi-Threading uplift over ARL (8+16 vs 8+16)
+52C flagship should bring a 20% Single-Threading & 80% Multi-Threading uplift over ARL (52C vs 24C)
+In gaming one document mentions that bLLC NVL should outperform ARL by 30-45%, and standard NVL should outperform ARL by 10-15%.
+There is an "APO+" program that attempts to add another 15-25% gaming uplift on top of what's listed above by forcing games to use specialized intel optimizations, and also swap out outdated instructions for newer ones in the .EXE of games. Intel is even considering providing a way to overwrite .EXEs without a dev's consent for games taht aren't directly patched. Yes, this raises tons of DRM compatiblity concerns, but intel sounds determined to get close to zen 6 in gaming at least some popular titles. Still might not happen.
+
+
+NVL-AX (Laptop AMD Halo Competitor) launches 2027 with 512EU or 256EU Celestial iGPU, 8+16 or 4+8 CPUs, and on-package LPDDR5X.
+
