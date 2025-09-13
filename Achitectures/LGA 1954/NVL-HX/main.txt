@@ -1,0 +1,3 @@
+Nova Lake will launch in the usual HX, H, and U variants each targeting different laptop categories.
+
+The top end Nova Lake-HX SKU will have 8 P-Cores, 16 E-Cores, 4 LP-E Cores + quad-core Xe3 IGPU

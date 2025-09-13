@@ -1,0 +1,92 @@
+received 5.5b last night
+usg support helps with customers
+
+
+Warrants clarification: 5 year warrants (5% shares outstanding), as long as they keep 51% of foundry it would never trigger.
+High confidence in foundry, might take outside investors. Structuring it so it has different ERP systems, board memebers etc.
+
+usg being involved changes probabilities for foundry? : Good endorsement, ultimately its in our hands and we have to execute, have capacity wich is primary thing. but endorsement helps on the margin and will ultimately be helpfull for us
+
+
+Softbank 2B investment:
+
+Relationship between USG and softbank: Coincidence that it fell within the same week, working for years with softbank. Fast track the investment. Good capital increase with quality investor. Continue to have convos with them about how we can partner. 
+
+
+Is this the end of capital raising: Good cash position, in process of deliverying. 3.8b bonds maturing. "Depending on how succesfull the foundry is we could need some capital"
+
+"Get through 14a eval with customers"
+
+
+
+
+Technology side
+
+
+Does 18A need to be ramped succesfull for 14A working??
+
+We are in a good place on the performance and making steady improvements on 18A
+14A was built to be a foundry node, 18A was picked up quickly. 14A looking better out of the gate compared to 18A at the same time
+
+Panther lake is on time, 
+
+
+Lip bu wants to execute of 14A and 18A but wants financial discipline. 
+
+14A is different, emphasise 14A needs customers outside of own product business to drive volume. Not going to put capital untill we have customer commitment.
+Every day you ask lip bu he kicks the tires on 14A hes getting more confidence, high confidence around 14A
+
+
+
+Customers will get value: 
+Good for pricing with multiple suppliers,
+diversificication
+
+
+Will 14A be more mobile friendly thene 18A?
+14A is generally targetting high performance, mobile is an oppportunity.
+
+
+
+Lip bu doesnt decalre a customer win untill its singed on the dotted line. Next year will be a good year to evaluate us.
+
+14A timeframe: 2028-2029 introduction
+
+
+
+Prodcut roadmap:
+
+
+Where is the product line strong?
+Notebook is in pretty good shape, meteor lake last year, lunar lake this year, this quarter will be a good quarter for lunar lake. Good solid share in notebook.
+Fumbled the football on high performance desktop side, high end desktop. Nova lake is a more complete set of SKU's and deos address high end desktop market,
+Overall client executing pretty well. 
+Datacenter side is pretty mixed, Single threaded performing really well, rest is a bit behind. Collectively more work to do. Multithreading will be important and roadmap will be adjusted. Lip bu doesnt want a gap in the roadmap that was so far allowed. 
+Is diamond rappids something that closes the gap: Its doesnt get us quite there yet. It wins in some cases and loses in others. Corral rapids is the real opportunity.
+
+Panther lake is an 18A process, datacenter stufff done internally to help support foundry. Architecture moving more and more to tile architecture. Intel foundry will be best combination between price and performance. Flexibility for customers. 
+
+
+
+Capex side of things:
+
+next year down yoy to 18b. 18b a year looks like a pretty good level for the next few years. Deploy more capital but not spend more dollars. 
+Capex will be down but nowhere close to 9b, it will be a couple in the teens a couple bellow 18b. 14A will push capex back up obv.
+
+
+GROSS MARGIN: 
+next year or 2 outlook: Foundry side is in pretty good shapen, really good cost structure compared to older nodes on 18A cheaper, 18A increased in both gross and operating margins. Test times have become a real focus. Spent a lot on samples, now looking to reduce, inventory reserve throwaway can be a lot better. 
+
+
+
+Why dont you summarize the vision:
+I think the vision is that the foundry vision is succesfull, a succesfull foundry can trade at multiple of the net book. We are currently getting nearly nothing at our current valuation. Its gonne take a bit of time. With lip-bu comming in and reqruiting new talent. 
+On product side it comes down to execution.
+
+
+
+
+
+
+sold bil of mobileye
+sold altera 3.2b

@@ -1,0 +1,18 @@
+Xe-LP Execution Units (EUs):
+- Smallest thread-level building block of intel Xe-LP GPU architecture
+- Each EU has SMT with seven threads.
+- The primary computation unit consists of a 8-wide SIMD ALU supporting SIMD8 FP/INT operations and a 2-wide SIMD ALU supporting SIMD2 extended math operations.
+
+
+
+
+
+
+
+
+
+
+Notes: 
+Intel using SIMD8 Chunks allows more finegrained control but more overhead and difficult to scale, this is why XeSS look so much better then FSR and DLSS but has less performance improvement.
+
+Intel is focused on INT8 performance wich is good for inference and better then any other equivs accross the board

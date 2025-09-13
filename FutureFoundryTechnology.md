@@ -1,0 +1,4 @@
+- **2D TMDs as Next-Gen Materials:** Transition metal dichalcogenides (TMDs) like $WSe_2$ are seen as candidates to go beyond silicon in FEOL/BEOL due to their unique electrical and mechanical properties
+- **Sputtered Contacts Advance Scalability:** Intel demonstrates manufacturable physical vapor deposition (PVD) sputtering for contacts with multilayer $WSe_2$ using materials like Sb/Pt, Sb₂Te₃, and Bi₂Te₃. Sputtered contacts are key for scaling up production, not just for lab demonstrations.
+- **Record Performance Metrics**: The reported contact resistance (RCRC) of 1.3kΩ·μm and drive current (Id,maxId,max) of 212 μA/μm at Vd = −1V are reportedly the best achieved so far using sputtered contacts - indicating a leap in practical device performance
+- 

@@ -1,0 +1,5 @@
+9/8/2025
+Spotted in Shipping manifest. Shipping date is 11th june.
+Near identical measurements to BMG-G21.
+Should pack a lot more cores.
+Expected to have 32 Xe2 Cores and should have 16GB of memory
